@@ -1,0 +1,4 @@
+Target: epapsy.gr
+Scope: epapsy.gr
+Testing Type: Non-intrusive web application security testing
+Project: Bug Hunting on an Open Bug Bounty Target
